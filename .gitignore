@@ -1,4 +1,5 @@
 logs/*
 env/
+test/*
 
 __pycache__
