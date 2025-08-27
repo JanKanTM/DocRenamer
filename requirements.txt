@@ -1,2 +1,5 @@
 PyPDF2==3.0.1
 watchdogs==4.0.0
+spaCy===3.8.7
+de-core-news-md===3.8.0
+en-core-web-md===3.8.0

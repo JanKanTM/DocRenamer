@@ -34,4 +34,4 @@ if __name__ == "__main__":
         except KeyboardInterrupt:
             logging.info("Program was stopped by the user!")
             observer.stop()
-        observer.join()            
+        observer.join()        
